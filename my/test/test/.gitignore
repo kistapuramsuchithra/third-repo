@@ -1,0 +1,9 @@
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore build artifacts
+/build/
+
+# Ignore configuration files with sensitive information
+config.ini
