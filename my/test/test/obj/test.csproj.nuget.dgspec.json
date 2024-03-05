@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brio support\\Desktop\\my\\test\\test\\test.csproj": {}
+    "C:\\Users\\brio support\\Desktop\\Sys\\third-repo\\my\\test\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brio support\\Desktop\\my\\test\\test\\test.csproj": {
+    "C:\\Users\\brio support\\Desktop\\Sys\\third-repo\\my\\test\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brio support\\Desktop\\my\\test\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\brio support\\Desktop\\Sys\\third-repo\\my\\test\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\brio support\\Desktop\\my\\test\\test\\test.csproj",
+        "projectPath": "C:\\Users\\brio support\\Desktop\\Sys\\third-repo\\my\\test\\test\\test.csproj",
         "packagesPath": "C:\\Users\\brio support\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brio support\\Desktop\\my\\test\\test\\obj\\",
+        "outputPath": "C:\\Users\\brio support\\Desktop\\Sys\\third-repo\\my\\test\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brio support\\AppData\\Roaming\\NuGet\\NuGet.Config",
